@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: #f4f6f9;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+}
+
+.dashboard-card {
+  transition: 0.3s;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-5px);
+}
